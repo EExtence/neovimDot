@@ -1,6 +1,6 @@
 require("eleanor.remap")
 require("eleanor.packer")
-print("hello1")
+print("have fun :3")
 
 
 
