@@ -26,7 +26,7 @@ use {"mbbill/undotree"}
 
 use {"tpope/vim-fugitive"}
 
-use({ 'rose-pine/neovim', as = 'rose-pine' })
+use({ 'Shatur/neovim-ayu' })
 
 use {
   'nvim-lualine/lualine.nvim',
